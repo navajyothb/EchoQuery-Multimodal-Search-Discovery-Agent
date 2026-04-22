@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+openai
+python-dotenv
+yt-dlp
+faiss-cpu
+numpy
